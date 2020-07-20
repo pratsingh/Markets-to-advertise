@@ -1,2 +1,2 @@
-# Markets-to-advertise
-Exploring markets to advertise in for a company
+# Finding Markets to Advertise a Product
+
